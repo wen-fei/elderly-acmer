@@ -4,8 +4,9 @@
 
 int main()
 {
-    int n, count = 0;
-    scanf("%d", &n);
+    int n1, count = 0;
+    scanf("%d", &n1);
+    long long n = n1;
     while (n > 1)
     {
         if (n % 2 == 1)
