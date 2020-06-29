@@ -15,4 +15,4 @@ int main() {
     printf("%d\n", a[0]);
     system("pause");
     return 0;
-}
+} 
